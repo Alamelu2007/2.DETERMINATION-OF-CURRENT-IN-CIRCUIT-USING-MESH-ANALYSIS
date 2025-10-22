@@ -22,6 +22,14 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="1148" height="698" alt="image" src="https://github.com/user-attachments/assets/972501b8-1e0a-4bba-8c86-88dd752a1f50" />
+
+<img width="1148" height="1041" alt="image" src="https://github.com/user-attachments/assets/c0faa91e-93ca-4fa5-8ade-dd31ef992159" />
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/3dd9c948-b7b7-49a1-a1d9-aaf896ae0ee8" />
+
+ <img width="1123" height="1280" alt="image" src="https://github.com/user-attachments/assets/9a06de4c-d423-4798-bbec-32ac822e7496" />
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
